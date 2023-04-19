@@ -1,0 +1,31 @@
+{
+  "name": "frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start -p 4013",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.4.0",
+    "@fortawesome/fontawesome-svg-core": "^6.4.0",
+    "@fortawesome/free-solid-svg-icons": "^6.4.0",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "apisauce": "^3.0.0",
+    "bootstrap": "^5.2.3",
+    "cep-promise": "^4.4.0",
+    "eslint": "8.38.0",
+    "eslint-config-next": "13.3.0",
+    "next": "13.3.0",
+    "qrcode.react": "^3.1.0",
+    "react": "18.2.0",
+    "react-bootstrap4-form-validation": "^1.0.10",
+    "react-dom": "18.2.0",
+    "react-input-mask": "^2.0.4",
+    "react-signature-canvas": "^1.0.6",
+    "sass": "^1.61.0",
+    "sweetalert2": "^11.7.3"
+  }
+}
